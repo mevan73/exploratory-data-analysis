@@ -1,0 +1,7 @@
+,EmployeeID,EmployeeName,Dept,Salary,Address,Email,Project
+0,1001,Bob,Accounting,AED78000,Oulu,b@b.com,ACM
+1,1002,Jake,Engineering,AED998000,Kyme,j@j.com,CRMWEB
+2,1003,Lisa,Engineering,AED998000,Helsinki,l@l.com,AUTOMATION
+3,1004,Sue,HR,230000,Paris,s@s.com,SAPHRMS
+4,1005,Ancy,NWT,67000,KYME,a@k.com,OFA
+5,1006,Jick,NWT,AED78000,NewYork,j@j.com,OFAC
